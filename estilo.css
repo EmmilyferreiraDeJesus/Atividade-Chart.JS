@@ -1,0 +1,28 @@
+body {
+    background-color: #C7CED9;
+    margin: 0;
+}
+
+
+.container-titulo {
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #164160;
+    font-size: 25px;
+    margin-top: 5%;
+}
+
+.container-chart {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.chart-itens {
+    width: 40vw;
+    height: 40vh;
+    background-color: #FFFFFF;
+    box-shadow: 10px 25px 15px rgba(71, 81, 90, 0.45);
+}
